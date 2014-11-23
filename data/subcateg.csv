@@ -1,0 +1,97 @@
+category	catdescr	subcategory	subdescr
+mx_car	Cars And Accessories	mx_auto	Car
+mx_gas	Gas Stations	mx_auto	Car
+mx_tow	Towing	mx_auto	Car
+mx_wash	Carwash	mx_auto	Car
+mx_mechanics	Mechanics	mx_auto	Car
+mx_bars	Bars	mx_barsandrestaurants	Bars And Restaurants
+mx_fastfood	Fast Food	mx_barsandrestaurants	Bars And Restaurants
+mx_restaurant	Restaurants	mx_barsandrestaurants	Bars And Restaurants
+mx_beautyclinics	Beauty Clinics	mx_beauty	Beauty
+mx_cosmetics	Cosmetics	mx_beauty	Beauty
+mx_beautysalon	Beauty Salons	mx_beauty	Beauty
+mx_books	Bookstores	mx_book	Book Store
+mx_diy	Hardware Store	mx_constructionmaterials	Construction Material
+mx_materials	Materials	mx_constructionmaterials	Construction Material
+mx_paint	Paint	mx_constructionmaterials	Construction Material
+mx_playschool	Kindergarten	mx_education	Education
+mx_education_sub	Schools And Universities	mx_education	Education
+mx_fashionaccessories	Fashion Accessories	mx_fashion	Fashion
+mx_fashionwomen	Women Fashion	mx_fashion	Fashion
+mx_fashionkids	Children Fashion	mx_fashion	Fashion
+mx_fashiongeneral	Fashion In General	mx_fashion	Fashion
+mx_uniforms	Uniforms	mx_fashion	Fashion
+mx_foodstore	Food Stores	mx_food	Food
+mx_fishandbutchers	Fish And Butcher Shops	mx_food	Food
+mx_sweets	Sweets	mx_food	Food
+mx_bakery	Bakery	mx_food	Food
+mx_ambulance	Ambulances	mx_health	Heath
+mx_healthequipment	Health Equipment	mx_health	Heath
+mx_doctors	Doctors	mx_health	Heath
+mx_pharmacy	Pharmacy	mx_health	Heath
+mx_hospital	Hospitals	mx_health	Heath
+mx_lab	Labs	mx_health	Heath
+mx_opticians	Opticians	mx_health	Heath
+mx_homeaccessories	Home Accessories	mx_home	Home
+mx_antiques	Antique Shops	mx_home	Home
+mx_florists	Florists	mx_home	Home
+mx_photo	Photography	mx_home	Home
+mx_gardening	Gardening	mx_home	Home
+mx_haberdashery	Haberdashery	mx_home	Home
+mx_homefurniture	Home Furniture	mx_home	Home
+mx_goods	Gifts And Crafts	mx_home	Home
+mx_homeservices	Home Services	mx_home	Home
+mx_tobacconists	Tobbacconists	mx_home	Home
+mx_mall	Department Stores	mx_hyper	Mall
+mx_jewelry_sub	Jewelry Shops	mx_jewelry	Jewelry
+mx_leisuretime	Leisure Time	mx_leisure	Leisure
+mx_billiards	Billiards	mx_leisure	Leisure
+mx_bowling	Bowling	mx_leisure	Leisure
+mx_bet	Casinos	mx_leisure	Leisure
+mx_theatre	Theaters And Cinemas	mx_leisure	Leisure
+mx_art	Art Galleries	mx_leisure	Leisure
+mx_boardgame	Board Games	mx_leisure	Leisure
+mx_leisureothers	Entertainment	mx_leisure	Leisure
+mx_videorental	Video Rental	mx_leisure	Leisure
+mx_musicbands	Music Bands	mx_music	Music
+mx_disc	Disc	mx_music	Music
+mx_musicalinstrument	Musical Instruments	mx_music	Music
+mx_officeaccessories	Office Accessories	mx_office	Office
+mx_officeequipment	Office Equipment	mx_office	Office
+mx_officesfurniture	Office Furniture	mx_office	Office
+mx_officeservices	Office Services	mx_office	Office
+mx_others_sub	Other Merchants	mx_others	Others
+mx_pets	Pets	mx_pet	Pet Shops
+mx_warehouse	Warehouse	mx_services	Services
+mx_architects	Architecture	mx_services	Services
+mx_realestate	Real State	mx_services	Services
+mx_cable	Cable	mx_services	Services
+mx_pawnshops	Pawn Shops	mx_services	Services
+mx_consulting	Consulting	mx_services	Services
+mx_accounting	Accounting	mx_services	Services
+mx_contractor	Contractors	mx_services	Services
+mx_tempagency	Employment	mx_services	Services
+mx_finance	Finance	mx_services	Services
+mx_fumigate	Fumigators	mx_services	Services
+mx_funeral	Funeral Homes	mx_services	Services
+mx_lawyer	Lawyers	mx_services	Services
+mx_cleaning	Cleaning Services	mx_services	Services
+mx_moving	Moving Services	mx_services	Services
+mx_otherservices	Other Services	mx_services	Services
+mx_designprogramming	Design And Programming	mx_services	Services
+mx_publicity	Publicity	mx_services	Services
+mx_repair	Repairments	mx_services	Services
+mx_secretary	Secretary	mx_services	Services
+mx_telephony	Telephony	mx_services	Services
+mx_drycleaner	Laundry And Dry Cleaning	mx_services	Services
+mx_shoes_sub	Shoe Shops	mx_shoes	Shoes
+mx_sportsaccessories	Sport Accessories	mx_sport	Sports
+mx_bikes	Bikes	mx_sport	Sports
+mx_sportclub	Sport Clubs	mx_sport	Sports
+mx_sportcloths	Sport Clothes	mx_sport	Sports
+mx_tech_sub	Electronics And Technology	mx_tech	Technology And Electronics
+mx_airline	Airline	mx_travel	Travel
+mx_travelagency	Travel Agency	mx_travel	Travel
+mx_hotel	Hotels	mx_travel	Travel
+mx_carrental	Car Rental	mx_travel	Travel
+mx_transport	Transport	mx_travel	Travel
